@@ -118,4 +118,4 @@ layout = row(widgetbox(slider, x_select, y_select), plot)
 
 # Add the plot to the current document and add the title
 curdoc().add_root(layout)
-curdoc().title = 'Gapminder'
+curdoc().title = 'Gapminder_app'
